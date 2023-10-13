@@ -17,7 +17,7 @@ window.onscroll = () => {
     navbar.classList.remove('open');
 }
 const sr = ScrollReveal ({
-    distance: '60px',
+    distance: '100px',
     duration: 2500,
     delay: 400,
     reset: true
